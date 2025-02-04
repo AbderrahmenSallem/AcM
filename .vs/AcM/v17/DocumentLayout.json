@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nex\\source\\repos\\AcM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|c:\\users\\nex\\source\\repos\\acm\\acm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|solutionrelative:acm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|C:\\Users\\Nex\\source\\repos\\AcM\\acm\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|solutionrelative:acm\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|C:\\Users\\Nex\\source\\repos\\AcM\\acm\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|solutionrelative:acm\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|C:\\Users\\Nex\\source\\repos\\AcM\\acm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|solutionrelative:acm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|C:\\Users\\Nex\\source\\repos\\AcM\\acm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|solutionrelative:acm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|C:\\Users\\Nex\\source\\repos\\AcM\\acm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354E21FA-DE2D-46FE-8ED3-9E07ED840072}|AcM\\AcM.csproj|solutionrelative:acm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\main.cs",
+              "RelativeDocumentMoniker": "AcM\\main.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\main.cs",
+              "RelativeToolTip": "AcM\\main.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAkwMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:56:08.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\main.cs",
+              "RelativeDocumentMoniker": "AcM\\main.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\main.cs [Design]",
+              "RelativeToolTip": "AcM\\main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:01:10.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\Form1.cs",
+              "RelativeDocumentMoniker": "AcM\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\Form1.cs [Design]",
+              "RelativeToolTip": "AcM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:05:06.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\Form1.cs",
+              "RelativeDocumentMoniker": "AcM\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\Form1.cs",
+              "RelativeToolTip": "AcM\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:20:48.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\Program.cs",
+              "RelativeDocumentMoniker": "AcM\\Program.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\Program.cs",
+              "RelativeToolTip": "AcM\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:15:44.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AcM\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Nex\\source\\repos\\AcM\\AcM\\Form1.Designer.cs",
+              "RelativeToolTip": "AcM\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:21:59.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

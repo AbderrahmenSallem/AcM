@@ -1,0 +1,11 @@
+C:\Users\Nex\source\repos\AcM\AcM\bin\Debug\AcM.exe.config
+C:\Users\Nex\source\repos\AcM\AcM\bin\Debug\AcM.exe
+C:\Users\Nex\source\repos\AcM\AcM\bin\Debug\AcM.pdb
+C:\Users\Nex\source\repos\AcM\AcM\obj\Debug\AcM.csproj.AssemblyReference.cache
+C:\Users\Nex\source\repos\AcM\AcM\obj\Debug\AcM.Welcome_Form.resources
+C:\Users\Nex\source\repos\AcM\AcM\obj\Debug\AcM.Properties.Resources.resources
+C:\Users\Nex\source\repos\AcM\AcM\obj\Debug\AcM.csproj.GenerateResource.cache
+C:\Users\Nex\source\repos\AcM\AcM\obj\Debug\AcM.csproj.CoreCompileInputs.cache
+C:\Users\Nex\source\repos\AcM\AcM\obj\Debug\AcM.exe
+C:\Users\Nex\source\repos\AcM\AcM\obj\Debug\AcM.pdb
+C:\Users\Nex\source\repos\AcM\AcM\obj\Debug\AcM.main.resources
